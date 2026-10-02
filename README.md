@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Azizbek's profile!
+  Welcome to Asadbek's profile!
   
 </h1>
 
@@ -8,7 +8,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on a very secret project<br>🌱 I’m currently learning Rest Framework<br>⚡ Fun fact i wear glasses
+🔭 I’m currently working on a very secret project<br>🌱 I’m currently learning AI<br>⚡ Fun fact i use Ubuntu
 
 <div align="center">
 

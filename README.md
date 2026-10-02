@@ -1,46 +1,73 @@
-<h1 align="center">
-  Welcome to Asadbek's profile!
-  
-</h1>
+<h1 align="center">Hi there, I'm Asadbek! 👋</h1>
 
-<div>
-  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</div>
+<p align="center">
+  <em>Frontend developer, data analytics enthusiast, and AI explorer.</em>
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on a very secret project<br>🌱 I’m currently learning AI<br>⚡ Fun fact i use Ubuntu
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahadov24/ahadov24/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
+### 💫 About Me:
+- 🔭 **Currently building:** Modern web applications, Telegram Web Apps, and data-driven tools
+- 📊 **Core interests:** Data Analytics (SQL, Python), smooth UI/UX micro-interactions, and applied AI
+- 🌱 **Currently exploring:** Advanced database design, DWH architectures, and scalable backends
+- ⚡ **Fun fact:** Terminal > GUI. Ubuntu is always the daily driver.
+
+---
+
+### 💻 Tech Stack & Tools:
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br/>
+  <!-- Data & Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <br/>
+  <!-- OS & Utilities -->
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
 
 <div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aziziycoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aziziycoder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aziziycoder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Analytics:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aziziycoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahadov24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Asadbek's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahadov24&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aziziycoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadov24&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+### 🏆 Achievements & Badges:
+<img src="https://github-profile-trophy.vercel.app/?username=ahadov24&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+
+### 📈 Activity Graph:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahadov24&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aziziycoder&icon=2&color=0)](https://visitcount.itsvg.in)
 
+### ✍️ Daily Dev Quote:
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-
-# Diagram 
-
-[![ProfessorDeveloper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aziziycoder&theme=dracula)](https://github.com/aziziycoder)
-
-# My Waka Time
-[![aziziycoder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aziziycoder&theme=radical)](https://wakatime.com/@aziziycoder)
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=ahadov24&icon=5&color=4)](https://visitcount.itsvg.in)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```

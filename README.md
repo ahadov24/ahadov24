@@ -56,8 +56,11 @@
 ### 🏆 Achievements & Badges:
 <img src="https://github-profile-trophy.vercel.app/?username=ahadov24&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 
-### 📈 Activity Graph:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahadov24&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ahadov24&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
@@ -65,9 +68,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
 <br/><br/>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=ahadov24&icon=5&color=4)](https://visitcount.itsvg.in)
-
 </div>
 
 ```

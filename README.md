@@ -4,9 +4,9 @@
   <em>Frontend developer, data analytics enthusiast, and AI explorer.</em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahadov24/ahadov24/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+<div>
+  <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</div>
 
 ---
 

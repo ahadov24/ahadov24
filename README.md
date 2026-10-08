@@ -5,7 +5,7 @@
 </p>
 
 <div>
-  <img src="https://github.com/ahadov24/ahadov24/wordmark.svg" alt="wordmark"></center>
+  <img src="https://github.com/ahadov24/ahadov24/blob/main/wordmark.svg" alt="wordmark"></center>
 </div>
 
 <div>

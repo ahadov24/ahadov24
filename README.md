@@ -4,10 +4,11 @@
   <img src="https://github.com/ahadov24/ahadov24/blob/main/wordmark.svg" alt="wordmark"></center>
 </div>
 
+</br>
+
 <p align="center">
   <em>Frontend developer, data analytics enthusiast, and AI explorer.</em>
 </p>
-
 
 <div>
   <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>

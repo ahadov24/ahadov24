@@ -5,6 +5,10 @@
 </p>
 
 <div>
+  <img src="https://github.com/ahadov24/ahadov24/wordmark.svg" alt="wordmark"></center>
+</div>
+
+<div>
   <img src="https://github.com/Boburbro/Boburbro/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </div>
 
